@@ -1,0 +1,22 @@
+{
+  "name": "gulppodastawy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keioon/learningGulp.git"
+  },
+  "author": "Krystian Urbaniak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Keioon/learningGulp/issues"
+  },
+  "homepage": "https://github.com/Keioon/learningGulp#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}

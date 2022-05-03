@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Keioon/learningGulp#readme",
   "devDependencies": {
+    "browser-sync": "^2.27.9",
     "gulp": "^4.0.2"
   }
 }
